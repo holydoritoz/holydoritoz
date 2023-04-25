@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @holydoritoz, My name is Dario, greetings from chile!
-- 👀 I’m interested in web apps and data science!
-- 🌱 I’m currently learning python!
+- 👀 I’m interested in web apps!
+- 🌱 I’m currently learning React Js and Node Js.
 - 💞️ I’m looking to collaborate on everything i can! 
 - 📫 How to reach me: dariourdaneta.b@gmail.com
 
